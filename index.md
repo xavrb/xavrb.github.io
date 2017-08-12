@@ -1,13 +1,28 @@
-# Header 1
-## Header 2
-### Header 3
+# Javier Mejia
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+I'm an engineer, former ESCOM, looking forward getting a MSc. degree and who knows, maybe a PhD. (who doesn't like being called Doctor, haha!)
 
-**Bold** and _Italic_ and `Code` text
+Always looking to learn stuff, it doesnt matter if it's math, a new programming language or a cooking recipe (yum!).  
 
-[Link](url) and ![Image](src)
+I'm a huge coffee enthusiast who happens to love lists, so lets make a new one about other things I like:  
+
+* AI (beware of those sneaky bots!)
+* Python (hell yeah!)
+* LaTeX (MS word sucks big time)
+* Linux
+  * Gnome
+  * Fedora
+* Lisp
+* Did I mention coffee?
+* Online privacy
+  * Telegram
+   * Those secret chats are cool, huh?
+  * Wickr
+  * Wire
+  * Signal
+* Markdown, obviously!
+
+So thats abot the size of it. I've been tech-inactive for a while but I'm back!
+
+Remember guys, use (Telegram)[telegram.org/dl] and TeX.
