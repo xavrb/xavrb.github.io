@@ -1,6 +1,3 @@
-# Javier Mejia
-
-
 I'm an engineer, former ESCOM, looking forward getting a MSc. degree and who knows, maybe a PhD. (who doesn't like being called Doctor, haha!)
 
 Always looking to learn stuff, it doesnt matter if it's math, a new programming language or a cooking recipe (yum!).  
