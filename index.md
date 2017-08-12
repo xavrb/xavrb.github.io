@@ -21,4 +21,4 @@ I'm a huge coffee enthusiast who happens to love lists, so lets make a new one a
 
 So thats abot the size of it. I've been tech-inactive for a while but I'm back!
 
-Remember guys, use [Telegram](telegram.org/dl) and TeX.
+Remember guys, use [Telegram](https://telegram.org/dl) and TeX.
