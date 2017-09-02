@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/javiermejia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://xavrb.github.io
+  * I am javiermejia (https://keybase.io/javiermejia) on keybase.
+  * I have a public key with fingerprint 47CD B2CE 056A AB77 ECA9  E930 DC90 70F4 FBD7 5AAD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c9e409b69a501bba77b9fed622fabfb0d7cf2ad01f9aca3478b29b8c15624de60a",
+      "fingerprint": "47cdb2ce056aab77eca9e930dc9070f4fbd75aad",
+      "host": "keybase.io",
+      "key_id": "dc9070f4fbd75aad",
+      "kid": "0101343c51ca8630f94791289d2c75c8d55dd2c366a1b2de612cd3475a65288591af0a",
+      "uid": "9a652d36228cc9ab2bd8be5fb8673219",
+      "username": "javiermejia"
+    },
+    "service": {
+      "hostname": "xavrb.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1504339098,
+  "expire_in": 157680000,
+  "prev": "33ed10116e51c1ca1037172931635028a6c99b20be85d70d2aba77ac5345f7bb",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMN5AnicbVJ7UFRVGGdpIUAIxAERyfCOhDOA3cfe18bokII2joKTTcmj5Zx7z4UL
+srvsCzYeTQUMNIM8Z8CmcjAiMYJAoiSR2CBcrDCloR2gxkaBHq7NQEZpj3tJ/+v8
+c875vt/3O7/vd77xkId8gjTzjebVu7OZ72suj71l9zl2Vny9DIMm0Ynpy7BCtL6h
+4yKy2gyFsojpMZwgcYFHOpyHDA9onIAQsCzkJSQyJCkBKEFcZAWJBCJOSDwQAKVj
+OUjykBMImiF1ImJwgCVikmzMQxazRTbaFFodK4iQFBBOMwBAlkUC4BFP4aLA4ywu
+6SQosjQAolKYb7KqFYo4CKxol2xSYsrFsC7vf/APdOMEpaMEmhAAx1C4xOtYniA5
+XiQFlhY4kaZF5UgxDCAgqYgkSEFUpNOAoUmOo3kCSOu67et0vBoWKaVlThB4AEko
+chDREuQYliIJXgVakcUIipCCLgAOGVmKUIEMsIpETEk4ZAGp3qrN3AeVAocF7sqT
+bfl2+F9XZovJZhJMx5Vkvs1mturVYpvTrKJLEDTc5zFA2SgqbioVDmSxyiYjpicU
+pGCTVWKCxnUUxeM8l4ihUrNsQQZZRdAsw+HKUt9BDoWSopCouEQwSDFJsYnAKZZg
+SZ4iGIrGSQ4wAs9DEoeIo0UWF0mgfj0QaEpHSyyEmNpZsdGE6UlK0QnyFE6rnGcE
+NrsFYRWusWytjybIx9/PVx0zn6DAsAfDN9saeleriY5w997+Rv/k8idvHwrm59YC
+Knsi6bYwGO668aJnr6Ptin3hl3Jd7cRPxkl/j9i8+zHtpO+vh7VDXqL3y+RbfRl9
+wSlro1XpH8x73gvOTHN3luw4GjjVdLo313onPmVL/InDTr+CiboYqXLDjpUrI5qW
+24Paia6J2olsXfyz3mM/DJ0FLd7Kqec79gV9b3Jf60xvKOJNlDmpprUu1FndZ4Sj
+1zWufRHDX0WHdGd2lhvbYw79JUL2ue6qR3bu/NzdOjJ+78LKWMLGufD6cWezkATa
+h5o/m432XUka/Lby6SMdBR9tjcrZ9sfPL73aGteUOp0XF+jx1S/1Dy8Nz6yN5l3U
+T5//oqX6zcmsg38HzS1fyNmEXe33qymcbxzxtGpyEg/+8+GwKWZBm5WWnbwldU//
+y2ln7r021e89dTTQqn3DPV46mF4VSw+MbfDNWZ1N/djV4FzcmhH5HbqjLWtoOtF7
+znXgQHJ1bFJSQnDVyZIbCz8yrkv9jXFZT7Qv1g1nba7ZmJHS07Xn5HLJ9vTNv/tf
+e6GZKA2pjD1Xt9c9+Jt597vyfuZTQ+jwttWnFm/5VtTbV2edRdd7IkZfCa/zzATU
+xwsPSyvmgMdn8keml47cnDvPr11NmPOkRA11rCx6++o7nhmIPt3W0vHo5T+/zh14
+J6p4cj8TdjHXW75yJvLSzVNd3ZuKa/8FK/rMMA==
+=qEDV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/javiermejia
+
+==================================================================
+
