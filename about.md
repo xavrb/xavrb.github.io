@@ -32,6 +32,8 @@ Remember guys, use [Telegram](https://telegram.org/dl) and TeX.
 ### Contact me
 * [Telegram](t.me/xavrb)  
 * [javier.mejia@protonmail.ch](mailto:javier.mejia@protonmail.ch)  
-PGP keys at (https://keybase.io/javiermejia)[https://keybase.io/javiermejia]
+PGP keys at [https://keybase.io/javiermejia](https://keybase.io/javiermejia)
+
+
 
 
