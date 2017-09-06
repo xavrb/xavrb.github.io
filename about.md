@@ -30,7 +30,7 @@ So thats about the size of it. I've been tech-inactive for a while but I'm back!
 Remember guys, use [Telegram](https://telegram.org/dl) and TeX.
 
 ### Contact me
-* [Telegram](t.me/xavrb)  
+* [Telegram](https://t.me/xavrb)  
 * [javier.mejia@protonmail.ch](mailto:javier.mejia@protonmail.ch)  
 PGP keys at [https://keybase.io/javiermejia](https://keybase.io/javiermejia)
 
