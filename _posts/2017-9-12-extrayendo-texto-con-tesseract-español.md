@@ -8,7 +8,7 @@ Ayer estaba tratando de hacer precisamente lo que dice el título del post. Y s�
 
 Toma 1: El PDF que recibí no se podía convertir a un documento de Word aunque era un documento de layout muy sencilla, sin embargo después me di cuenta que era básicamente un escaneo bastante bien hecho, es decir, si lo veías parecía texto crudo de word, aquí lo que intenté:
 
-* Usar [cloudconvert](cloudconvert.com), es un servicio en línea que puede convertir entre 215 formatos de archivos. ¿El problema? Aunque cloudconvert es excelente, su procesamiento se limita a literalmente extraer el texto si ya hay un proceso de OCR sobre el archivo, en este caso no había ninguno.
+* Usar [cloudconvert](https://cloudconvert.com), es un servicio en línea que puede convertir entre 215 formatos de archivos. ¿El problema? Aunque cloudconvert es excelente, su procesamiento se limita a literalmente extraer el texto si ya hay un proceso de OCR sobre el archivo, en este caso no había ninguno.
 * Usar LibreOffice y abiword. En teoría los *alter-ego* de MS Word puede convertir PDF en texto, sin embargo resultó en lo mismo por que no había OCR que extraer, lo que me temía.  
 Según un artículo que encontré, se puede hacer la conversión entre PDF y word con un comando de abiword:  
 ```bash
