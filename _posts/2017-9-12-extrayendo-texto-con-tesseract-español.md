@@ -2,11 +2,11 @@
 layout: post
 title: Extrayendo texto de un PDF en español con Tesseract y Fedora
 category: dev
-tags: [ocr,tesseract,imagemagick,gscan2pdf,linux,fedora]
+tags: [ocr,tesseract,imagemagick,gscan2pdf]
 ---
 
 
-Ayer estaba tratando de hacer precisamente lo que dice el título del post. Y sí, estaba udando Fedora.  
+Ayer estaba tratando de hacer precisamente lo que dice el título del post. Y sí, estaba usando Fedora.  
 
 Toma 1: El PDF que recibí no se podía convertir a un documento de Word aunque era un documento de layout muy sencilla, sin embargo después me di cuenta que era básicamente un escaneo bastante bien hecho, es decir, si lo veías parecía texto crudo de word, aquí lo que intenté:
 
