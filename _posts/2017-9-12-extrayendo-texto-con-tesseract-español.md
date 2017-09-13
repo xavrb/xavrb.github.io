@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Extrayendo texto de un PDF en español con Tesseract y Fedora
+category: dev
+tags: [ocr,tesseract,imagemagick,gscan2pdf,linux,fedora]
 ---
 
 
