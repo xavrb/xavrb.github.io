@@ -32,8 +32,8 @@ Remember guys, use [Telegram](https://telegram.org/dl) and TeX.
 ### Contact me
 **Secure contact**  
 
-* [Telegram](https://t.me/xavrb), a secret chat if you wish  *recomended*  
-* [Wire - @xavrb](https://app.wire.com)    *recomended*  
+* [Telegram](https://t.me/xavrb), a secret chat if you wish  *<font size="1">recomended</font> *  
+* [Wire - @xavrb](https://app.wire.com)    *<font size="1">recomended</font> *  
 * [Keybase - javiermejia](https://keybase.io/javiermejia)  
 * [javier.mejia@protonmail.ch](mailto:javier.mejia@protonmail.ch)  
 
