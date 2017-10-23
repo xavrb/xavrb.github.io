@@ -30,9 +30,16 @@ So thats about the size of it. I've been tech-inactive for a while but I'm back!
 Remember guys, use [Telegram](https://telegram.org/dl) and TeX.
 
 ### Contact me
-* [Telegram](https://t.me/xavrb)  
+**Secure contact**  
+
+* [Telegram](https://t.me/xavrb), a secret chat if you wish  
+* [Wire - @xavrb](https://app.wire.com)    
+* [Keybase - javiermejia](https://keybase.io/javiermejia)  
 * [javier.mejia@protonmail.ch](mailto:javier.mejia@protonmail.ch)  
-PGP keys at [https://keybase.io/javiermejia](https://keybase.io/javiermejia)
+---
+PGP keys at [https://keybase.io/javiermejia](https://keybase.io/javiermejia), just tell me via another messaging app you are using the Keybase public keys.  
+
+
 
 
 
