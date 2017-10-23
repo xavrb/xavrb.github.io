@@ -36,7 +36,7 @@ Remember guys, use [Telegram](https://telegram.org/dl) and TeX.
 * [Wire - @xavrb](https://app.wire.com)    
 * [Keybase - javiermejia](https://keybase.io/javiermejia)  
 * [javier.mejia@protonmail.ch](mailto:javier.mejia@protonmail.ch)  
----
+
 PGP keys at [https://keybase.io/javiermejia](https://keybase.io/javiermejia), just tell me via another messaging app you are using the Keybase public keys.  
 
 
