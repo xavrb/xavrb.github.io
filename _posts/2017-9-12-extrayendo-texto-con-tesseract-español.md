@@ -14,8 +14,9 @@ Toma 1: El PDF que recibí no se podía convertir a un documento de Word aunque 
 Según un artículo que encontré, se puede hacer la conversión entre PDF y word con un comando de abiword:  
 {% highlight bash %}
 abiword --to=doc whatever.pdf
-```  
-Lamentablemente no funcionó. Sad.
+{% endhighlight %}    
+
+*Lamentablemente no funcionó. Sad.*
 
 
 
@@ -31,10 +32,12 @@ Lamentablemente no funcionó. Sad.
 # dnf -y install tesseract-langpack-spa
 {% endhighlight %}  
 
-Después hay que convertir el PDF en imágenes, ¿cómo hacemos esto?, EZPZ:  
+Después hay que convertir el PDF en imágenes, ¿cómo hacemos esto?, EZPZ: 
+ 
 {% highlight bash %}
-convert -density 400 esepdfextraño.pdf imagen.png
+$ convert -density 400 esepdfextraño.pdf imagen.png
 {% endhighlight %}  
+
 Lo anterior, en mi caso, generó 2 imágenes, las cuales vamos a abrir en gscan2pdf, el cual tiene una GUI bastante intuitiva.
 
 * Archivo > Abrir > selecciona todas las imágenes que generó convert
@@ -50,12 +53,6 @@ Y deja que la magia ocurra.  Después de que tesseract termine, en la pestaña `
 Y listo. Tal vez tengas que quitar uno que otro salto de línea extra, y en general leer el archivo, recordemos que incluso el aprendizaje de máquina a veces requiere supervisión.
 
 Peace out.
-
-
-
-
-
-
 
 
 
