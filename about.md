@@ -46,7 +46,7 @@ Remember guys, use [Telegram](https://telegram.org/dl) and TeX.
 PGP keys at [https://keybase.io/javiermejia](https://keybase.io/javiermejia), just tell me via another messaging app you are using the Keybase public keys.  
 If, for some reason you don't like Keybase and want to use a public key directly provided by me, you can use [this one (4096-bit)](./contact/pgp_keys.asc), or below if you wish:
 
-`
+{% highlight %}
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFmm8dQBEADXc8FSizyqcPt7axtfNmXkjDbcMiBXqqwHJQZSB0C98zZmpvcr
@@ -99,7 +99,7 @@ QAil6GuOE9EmocnGHJv44fZD6miCVfUiikZBGEEfOJdcZ//YiSayn7IbmQppa8Ie
 cVWIzrk=
 =lCqd
 -----END PGP PUBLIC KEY BLOCK-----
-`
+{% endhighlight %}
   
 
 
