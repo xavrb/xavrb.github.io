@@ -25,8 +25,8 @@ Para sistemas Windows lo único que he usado es Recuva, el cual funciona bien. N
 ### Formateando una USB
 Lo primero que hice fue formatear una USB que ya no utilizo, lo importante es sobreescribir los contenidos para ver el funcionamiento de las herramientas que vamos a usar.
 
-![formateando una usb](../images/photorec-scalpel/steps/1format.png)
-*Hay que especificar que deseamos que sobreescriba el almacenamiento con 0s y 1s*  
+![formateando una usb](../images/photorec-scalpel/steps/1format.png)  
+*[1] Hay que especificar que deseamos que sobreescriba el almacenamiento con 0s y 1s*  
 
 
 
