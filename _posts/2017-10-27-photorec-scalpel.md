@@ -6,6 +6,7 @@ tags: [recuperación]
 
 
 ¿Qué es peor que eliminar un archivo por accidente?, no encontrarlo ni en la papelera de reciclaje. `*horror.ogg*`  
+# Análisis forense con Photorec y Scalpel: O cómo recuperar las fotos que eliminé por error
 
 ## ¿Se fueron para siempre?
 
