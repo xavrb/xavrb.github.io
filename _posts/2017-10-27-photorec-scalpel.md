@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Análisis forense no formal con Photorec y Scalpel: O cómo recuperar las fotos que borraste por accidente
+title: Análisis forense no formal con Photorec y Scalpel
 tags: [recuperación]
 ---
 
 
 ¿Qué es peor que eliminar un archivo por accidente?, no encontrarlo ni en la papelera de reciclaje. `*horror.ogg*`  
 
-# Análisis forense no formal con Photorec y Scalpel  
+# O cómo recuperar las fotos que borraste por accidente
 
 ## ¿Se fueron para siempre?
 
