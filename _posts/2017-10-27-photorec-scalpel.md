@@ -5,7 +5,7 @@ tags: [recuperación]
 ---
 
 
-¿Qué es peor que eliminar un archivo por accidente?, no encontrarlo ni en la papelera de reciclaje. `*horror.ogg*`  
+¿Qué es peor que eliminar un archivo por accidente? No encontrarlo ni en la papelera de reciclaje. `*horror.ogg*`  
 
 # O cómo recuperar las fotos que borraste por accidente
 
@@ -25,7 +25,7 @@ Para sistemas Windows lo único que he usado es Recuva, el cual funciona bien. N
 ### Formateando una USB
 Lo primero que hice fue formatear una USB que ya no utilizo, lo importante es sobreescribir los contenidos para ver el funcionamiento de las herramientas que vamos a usar.
 
-![formateando una usb](./images/photorec-scalpel/steps/1format.png)
+![formateando una usb](../images/photorec-scalpel/steps/1format.png)
 *Hay que especificar que deseamos que sobreescriba el almacenamiento con 0s y 1s*  
 
 
