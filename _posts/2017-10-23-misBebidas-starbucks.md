@@ -79,8 +79,9 @@ Puedes tomarlo así como lo pides, o puedes probar la mejor bebida del año 2017
 ## Flat White
 
 *    Que en total sean 7 shots de Ristretto
-*    Que sean shots de café Chiapas o French roast (cualquiera suave)
 *    Agrega leche de soya
+*    Agrega coco
+*¡Boom!*  
 
 ---
 
