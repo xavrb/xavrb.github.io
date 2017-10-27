@@ -49,25 +49,73 @@ do
    mkdir 0$i- && echo "$i Lorem ipsum dolor sit amet, conse$i ctetur adipiscing elit. Donec ultricies nibh et leo tincidunt porttitor. Integer diam lorem,$i dapibus et fermentum in, faucibus a veli$i t. Morbi finibus consectetur suscipit. Cras sit amet tortor vitae risus molestie egestas at vitae nisl. Phasellus non turpis vel augue$i dapibus porta at at purus. Maecenas $i aliquet gravida neque eget posuere. Ut feugiat neque purus, sit amet vulputate arcu consequat nec. Sed quis viverra magna. Nunc blandit magna et risus ultrices, sit amet tempus enim placerat. Morbi eu efficitur augue. $i" > 01-chapter0$i.markdown  && mv 01-chapter0$i.markdown 0$i-/
 done
 {% endhighlight %}  
-*modifica i para crear los que tu corazón desee*  
+*Modifica i para crear los que tu corazón desee*  
+
+El árbol de archivos (`$ tree .`) se verá de la siguiente forma:  
+{% highlight bash %}
+.
+└── USB de prue
+    └── Prueba
+        ├── Imágenes
+        │   └── Fedora Wallpapers
+        │       ├── F23.jpg
+        │       ├── F24-standard_wiki.png
+        │       ├── F26-final-day-default-wallpaper-standard.png
+        │       └── Fedora-25-wallpaper.png
+        └── Markdown
+            ├── 01-
+            │   └── 01-chapter01.markdown
+            ├── 010-
+            │   └── 01-chapter010.markdown
+            ├── 011-
+            │   └── 01-chapter011.markdown
+            ├── 012-
+            │   └── 01-chapter012.markdown
+            ├── 013-
+            │   └── 01-chapter013.markdown
+            ├── 014-
+            │   └── 01-chapter014.markdown
+            ├── 015-
+            │   └── 01-chapter015.markdown
+            ├── 016-
+            │   └── 01-chapter016.markdown
+            ├── 017-
+            │   └── 01-chapter017.markdown
+            ├── 018-
+            │   └── 01-chapter018.markdown
+            ├── 019-
+            │   └── 01-chapter019.markdown
+            ├── 02-
+            │   └── 01-chapter02.markdown
+            ├── 020-
+            │   └── 01-chapter020.markdown
+            ├── 03-
+            │   └── 01-chapter03.markdown
+            ├── 04-
+            │   └── 01-chapter04.markdown
+            ├── 05-
+            │   └── 01-chapter05.markdown
+            ├── 06-
+            │   └── 01-chapter06.markdown
+            ├── 07-
+            │   └── 01-chapter07.markdown
+            ├── 08-
+            │   └── 01-chapter08.markdown
+            ├── 09-
+            │   └── 01-chapter09.markdown
+            └── create.sh
+
+25 directories, 25 files
+{% endhighlight %}  
+
+¿El paso siguiente? ¡Borrar todo con `Shift + supr`! No queremos que nuestros archivos se vayan a `.Trash`, queremos deshacernos de ellos por completo (casi).  
+
+![eliminando](../images/photorec-scalpel/steps/2delete.png)  
 
 
+### La carpeta está vacía  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Eso es cierto, pero técnicamente nuestros archivos siguen vivos. 
 
 
 
