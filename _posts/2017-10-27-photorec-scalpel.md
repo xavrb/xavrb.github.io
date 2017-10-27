@@ -26,7 +26,35 @@ Para sistemas Windows lo único que he usado es Recuva, el cual funciona bien. N
 Lo primero que hice fue formatear una USB que ya no utilizo, lo importante es sobreescribir los contenidos para ver el funcionamiento de las herramientas que vamos a usar.
 
 ![formateando una usb](../images/photorec-scalpel/steps/1format.png)  
-*[1] Hay que especificar que deseamos que sobreescriba el almacenamiento con 0s y 1s*  
+*[1] Especificar que sobreescriba el almacenamiento con 0s y 1s*  
+
+Y después de unos minutos, dependiendo de tu equipo, tendremos una USB fresca y lista para nuestro experimento.  
+
+### Llenando la USB
+
+Usaremos dos tipos de archivos para esta prueba:  
+* Imágenes (wallpapers oficiales de Fedora)  
+* Archivos de texto (Markdown; usaremos un script para generar muchos ¡yay!)  
+
+
+Ejecuté este código sobre la memoria que formateamos, el cuál creará `i` directorios con 1 archivo de markdown cada uno:  
+
+{% highlight bash %}
+#!/bin/bash
+
+#script to generate tree folder of a boook (chapters only), will create  01-, 02-, ... XX folders with a 01-capterxx.markdown file
+
+for i in {1..20}
+do
+   mkdir 0$i- && echo "$i Lorem ipsum dolor sit amet, conse$i ctetur adipiscing elit. Donec ultricies nibh et leo tincidunt porttitor. Integer diam lorem,$i dapibus et fermentum in, faucibus a veli$i t. Morbi finibus consectetur suscipit. Cras sit amet tortor vitae risus molestie egestas at vitae nisl. Phasellus non turpis vel augue$i dapibus porta at at purus. Maecenas $i aliquet gravida neque eget posuere. Ut feugiat neque purus, sit amet vulputate arcu consequat nec. Sed quis viverra magna. Nunc blandit magna et risus ultrices, sit amet tempus enim placerat. Morbi eu efficitur augue. $i" > 01-chapter0$i.markdown  && mv 01-chapter0$i.markdown 0$i-/
+done
+{% endhighlight %}  
+*modifica i para crear los que tu corazón desee*  
+
+
+
+
+
 
 
 
