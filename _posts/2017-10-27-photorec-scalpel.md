@@ -113,9 +113,33 @@ El árbol de archivos (`$ tree .`) se verá de la siguiente forma:
 ![eliminando](../images/photorec-scalpel/steps/2delete.png)  
 
 
-### La carpeta está vacía  
+La carpeta está vacía; eso es cierto, pero técnicamente nuestros archivos siguen vivos. ¿Qué sigue? Conseguir PhotoRec y Scalpel. En sistemas como Fedora sería con:  
+`# dnf install scalpel testdisk` (testdisk contiene PhotoRec).  
 
-Eso es cierto, pero técnicamente nuestros archivos siguen vivos. 
+
+#### PhotoRec 
+
+
+
+
+{% highlight bash %}
+.
+├── f0015328.png
+├── f0016120.png
+├── f0017352.png
+├── f0021344.jpg
+├── f0023728.sh
+└── report.xml
+
+0 directories, 6 files
+{% endhighlight %}  
+
+Ahora, ya sabíamos que la estructura de archivos y los nombres se pierden. Pero lo interesante es que PhotoRec no pudo recuperar mis archivos `.md`. Los tipos de archivo que puede manejar o recuperar PhotoRec están [acá](http://www.cgsecurity.org/wiki/File_Formats_Recovered_By_PhotoRec), obviamente `.md` no está soportado. Sin embargo hizo un estupendo trabajo con las imágenes y el archivo de bash, como se puede ver a continuación:  
+![archivos recuperados](../images/photorec-scalpel/steps/4recover.png)  
+
+#### Scalpel
+
+
 
 
 
