@@ -23,6 +23,20 @@ Imagina una caja fuerte dentro de un banco (el cual no puede abrir tu caja fuert
 
 Cada que necesites una llave específica, abres tu caja fuerte, usas la llave pequeña y la vuelves a guardar. ¡Simple!  
 
+## ¿Cuál usar?  
+
+Ahora, en las tiendas de aplicaciones hay literalmente miles de opciones disponibles. En teoría cualquiera podría funcionar, sin embargo, no vas con el primer médico que encuentras para tratar algún padecimiento. Esta lista va a ser muy corta, reduciremos las opciones a 2, la `crème de la crème` de los gestores de contraseñas. Cualquiera de las dos puede ser usado en PC, un móvil o una *tablet*, pueden ser usados sin importar si tienes internet (obviamente no puedes acceder a contenido nuevo) y son extremadamente fáciles de usar.  
+
+### LastPass  (LogMeIn Inc)  
+
+![lastpass](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LastPass_logo_2016.svg/2000px-LastPass_logo_2016.svg.png)
+
+Promovido como "la última contraseña que tendrás que recordar" es una de las aplicaciones más usadas [y recomendadas](https://twitter.com/SwiftOnSecurity/status/653214823140868096).  
+
+LastPass, almacena tus contraseñas en sus servidores (como en la analogía, LP sería el banco) en una bóveda cifrada (caja fuerte que únicamente tú puedes abrir) con una contraseña maestra (llave maestra), al igual que la mayoría de gestores de contraseñas. ¿Dónde LastPass destaca entre ellos preguntarás? ¿Entonces no da lo mismo cuál use? (Respuesta corta: NO).  
+
+
+### 1Password (AgileBits)  
 
 
  
