@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Encontrando el archivo que ocupa más
+title: Encontrando el archivo que ocupa más (Linux)  
 tags: [espacio, shell]
 ---
 
@@ -17,7 +17,7 @@ Un simple comando, spoiler:
 du -sh * | sort -hr | head -n10
 {% endhighlight %}
 
-`du` es, literalmente lo que necesaitaba (disk usage), y entrega un resumen de el espacio usado en el directorio donde lo ejecutes, a saber:  
+`du` es, literalmente lo que necesitaba (disk usage), y entrega un resumen de el espacio usado en el directorio donde lo ejecutes, a saber:  
 * **-s**: entrega un resumen nadamás (summarize)  
 * **-h**: human-readable, para  los no-máquinas allá afuera. Entrega lo que ocupan los directorios en M(MB), G(GB), etc.  
 
