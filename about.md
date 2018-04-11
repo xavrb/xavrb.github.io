@@ -37,7 +37,7 @@ Remember guys, use [Telegram](https://telegram.org/dl) and TeX.
 	Download from: https://telegram.org/dl  
 	Telegram is a messaging app with a focus on speed and security, it’s super-fast, simple and free. You can use Telegram on all your devices at the same time — your messages sync seamlessly across any number of your phones, tablets or computers.  
 * [Wire - @xavrb](https://app.wire.com)    <font size="1"><i>recommended</i></font>  
-	Download from: https://wire.com/en/download/  
+	Download from: [https://wire.com/en/download/](https://wire.com/en/download/)  
 	Business and personal conversations secured with end‑to‑end encryption and protected by European privacy laws.  
 * [Keybase - javiermejia](https://keybase.io/javiermejia) 
 	Download from: https://keybase.io/download  
