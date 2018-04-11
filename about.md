@@ -32,6 +32,7 @@ Remember guys, use [Telegram](https://telegram.org/dl) and TeX.
 ### Contact me
 **Secure contact**  
 
+* [Signal](https://signal.org), ask for it so we can compare fingerprints.
 * [Telegram](https://t.me/xavrb), a secret chat if you wish  <font size="1"><i>recommended</i></font>  
 	Download from: https://telegram.org/dl  
 	Telegram is a messaging app with a focus on speed and security, it’s super-fast, simple and free. You can use Telegram on all your devices at the same time — your messages sync seamlessly across any number of your phones, tablets or computers.  
