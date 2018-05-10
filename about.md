@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+You can also check my resume [here](https://xavrb.github.io/cv/)  
 
 I'm an engineer, former ESCOM, ~~looking forward getting a MSc. degree and who knows, maybe a PhD. (who doesn't like being called Doctor, haha!)~~, now looking forward starting a new cool job. Not getting rid of the idea of an even higher degree of studies, but now I want to see how far i can get with only my knowledge as a tool (and coffee).  
 
