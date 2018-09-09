@@ -6,6 +6,8 @@ tags: [usb partitions]
 
 ¿Por qué particionar? Tener varias particiones en una USB/DISCO extraíble puede ser bastante útil; puedes organizarte mejor con tus archivos y te da mas control sobre tus dispositivos.  
 
+![usbs](../images/usb-part/pexels-photo-536025.jpeg)
+
 ## Requisitos  
 * Ubuntu reciente. A la fecha de este post, la version más actual es Ubuntu 18.04.1 LTS, pero en teoría cualquier Linux moderno puede servir para nuestros propósitos.  
 * Utilidad de discos de Gnome. Referente al punto anterior, incluso Fedora, Mint, etc. pueden correr esta utilidad. Para ver si la tienes inatalada ejecuta en un shell (`Alt + F2 > escribe gnome-terminal`): `~$ man gnome-disks`, si te contesta con `Ninguna entrada del manual para gnome-disks` (que es una posibilidad remota) puedes instalarla con el siguiente comando: `sudo -y apt-get install gnome-disks` y listo.  
