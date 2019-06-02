@@ -5,7 +5,7 @@ permalink: /about/
 ---
   
 
-I have engineering background, former ESCOM, ~~looking forward getting a MSc. degree and who knows, maybe a PhD. (who doesn't like being called Doctor, haha!)~~, now looking forward starting a new cool job. Not getting rid of the idea of an even higher degree of studies, but now I want to see how far i can get with only my knowledge as a tool (and coffee).  
+I have engineering background, former ESCOM, ~~looking forward getting a MSc. degree and who knows, maybe a PhD. (who doesn't like being called Doctor, haha!)~~, now working as a devOps specialist and software developer on [redacted] company. Not getting rid of the idea of an even higher degree of studies, but now I want to see how far i can get with only my knowledge as a tool (and coffee).  
 
 Always looking to learn stuff, it doesnt matter if it's math, a new programming language or a cooking recipe (yum!).  
 
