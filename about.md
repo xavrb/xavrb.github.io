@@ -22,7 +22,7 @@ I'm a huge coffee enthusiast who happens to love lists, so lets make a new one a
 * Online privacy
   * Telegram (those secret chats are cool, huh?)
   * Wickr
-  * ~~ Wire~~
+  * ~~Wire~~
   * Signal
 * Markdown, obviously!
 
