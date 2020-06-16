@@ -37,12 +37,12 @@ Remember guys, use [Telegram](https://telegram.org/dl) and TeX.
 * [Telegram](https://t.me/xavrb), a secret chat if you wish  <font size="1"><i>recommended</i></font>  
 	Download from: [https://telegram.org/dl](https://telegram.org/dl)  
 	Telegram is a messaging app with a focus on speed and security, it’s super-fast, simple and free. You can use Telegram on all your devices at the same time — your messages sync seamlessly across any number of your phones, tablets or computers.  
-* [Wire - @xavrb](https://app.wire.com)    <font size="1"><i>recommended</i></font>  
+~~* [Wire - @xavrb](https://app.wire.com)    <font size="1"><i>recommended</i></font>  
 	Download from: [https://wire.com/en/download/](https://wire.com/en/download/)  
-	Business and personal conversations secured with end‑to‑end encryption and protected by European privacy laws.  
-* [Keybase - javiermejia](https://keybase.io/javiermejia) 
+	Business and personal conversations secured with end‑to‑end encryption and protected by European privacy laws.  ~~
+~~* [Keybase - javiermejia](https://keybase.io/javiermejia) 
 	Download from: [https://keybase.io/download](https://keybase.io/download)  
-	Crypto for everyone, not just programmers!  
+	Crypto for everyone, not just programmers!~~
 * [javier.mejia@pm.me](mailto:javier.mejia@pm.me)  
 * [javier.mejia@tutanota.com](mailto:javier.mejia@tutanota.com)  
 
