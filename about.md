@@ -46,8 +46,10 @@ Remember guys, use [Telegram](https://telegram.org/dl) and TeX.
 * [javier.mejia@pm.me](mailto:javier.mejia@pm.me)  
 * [javier.mejia@tutanota.com](mailto:javier.mejia@tutanota.com)  
 
-PGP keys at [https://keybase.io/javiermejia](https://keybase.io/javiermejia), just tell me via another messaging app you are using the Keybase public keys.  
-If, for some reason you don't like Keybase and want to use a public key directly provided by me, you can use [this one (ECC -- ed25519)](https://keybase.pub/javiermejia/public-keys/publickey.javier.mejia@protonmail.ch-5173eb73bf42c573cc00612cb48aa11062365ef8.asc), or below if you wish:
+## PGP keys  
+Just tell me via another messaging app you are using the below public key.    
+
+If you want to use a public key directly provided by me, you can use [this one (ECC -- ed25519)](https://keybase.pub/javiermejia/public-keys/publickey.javier.mejia@protonmail.ch-5173eb73bf42c573cc00612cb48aa11062365ef8.asc), or below if you wish:
 
 Fingerprint (ECC -- ed25519) for javier.mejia@pm.me: `dfb7a5bb1e4edc64e05ae8ca49fcf05c288c9551`
 {% highlight bash %}
