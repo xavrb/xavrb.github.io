@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Visualizar archivos HEIC en Fedora  
+title: See HEIC files correctly on Fedora  
 tags: [heic, heif, fedora]
 ---
 
