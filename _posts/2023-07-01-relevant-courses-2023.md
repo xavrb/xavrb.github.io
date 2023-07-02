@@ -10,7 +10,7 @@ As of July 2023 Ive been preparing myself and improving my tech skills -- specif
 * [Getting Started with Elasticsearch on Google Cloud](https://www.coursera.org/account/accomplishments/verify/99ZZ52574QUV)
 * [Using Elastic Stack to Monitor Google Cloud](https://www.coursera.org/account/accomplishments/verify/5JL49TX47QGS)
 
-Some time ago I earned a certificate on basic ELK from Platsi:
+Some time ago I earned a certificate on basic ELK from Platzi:
 * [Curso de Introducción a Elasticsearch](https://platzi.com/p/javiermejiaperez/curso/1912-intro-elasticsearch/diploma/detalle/)
 
 
